@@ -9,7 +9,7 @@ fundamentals and preparing for technical interviews.
 
 | Lecture | Topic | Notes |
 |---------|-------|-------|
-| 01 | Introduction to Deep Learning | [View Notes](MIT_DL-L1.pdf) |
+| 01 | Introduction to Deep Learning | [View Notes](Lecture-01-Introduction-to-Deep-Learning.pdf) |
 | 02 | Coming soon | 🚧 |
 | 03 | Coming soon | 🚧 |
 | 04 | Coming soon | 🚧 |

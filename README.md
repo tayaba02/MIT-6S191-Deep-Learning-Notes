@@ -10,7 +10,7 @@ fundamentals and preparing for technical interviews.
 | Lecture | Topic | Notes |
 |---------|-------|-------|
 | 01 | Introduction to Deep Learning | [View Notes](Lecture-01-Introduction-to-Deep-Learning.pdf) |
-| 02 | Coming soon | 🚧 |
+| 02 | Deep Sequence Modeling | [View Notes](Lecture-02-Deep-Sequence-Modeling.pdf) |
 | 03 | Coming soon | 🚧 |
 | 04 | Coming soon | 🚧 |
 | 05 | Coming soon | 🚧 |

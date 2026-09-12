@@ -18,28 +18,6 @@ fundamentals and preparing for technical interviews.
 | 07 | Coming soon | 🚧 |
 | 08 | Coming soon | 🚧 |
 
-## Lecture 1 — Introduction to Deep Learning
-
-Topics covered:
-
-- Perceptrons and neural networks
-- Activation functions
-- Forward propagation
-- Loss functions
-- Gradient descent
-- Backpropagation
-- Learning rates and optimization
-- Mini-batch training
-- Overfitting and regularization
-- Dropout and early stopping
-
-## 🎯 Purpose
-
-I created these notes while working through MIT 6.S191 to:
-
-- strengthen my understanding of deep learning fundamentals;
-- build a concise reference for technical interview preparation;
-- document my continued learning in machine learning and AI.
 
 ## 📌 Disclaimer
 

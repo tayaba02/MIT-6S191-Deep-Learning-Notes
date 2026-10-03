@@ -13,7 +13,7 @@ fundamentals and preparing for technical interviews.
 | 02 | Deep Sequence Modeling | [View Notes](Lecture-02-Deep-Sequence-Modeling.pdf) |
 | 03 | Deep Computer Vision | [View Notes](Lecture-03-Deep-Computer-Vision.pdf) |
 | 04 | Deep Generative Modeling | [View Notes](Lecture-04-Deep-Generative-Modeling.pdf) |
-| 05 | Coming soon | 🚧 |
+| 05 | Deep Reinforcement Learning | [View Notes](Lecture-05-Deep-Reinforcement-Learning.pdf) |
 | 06 | Coming soon | 🚧 |
 | 07 | Coming soon | 🚧 |
 | 08 | Coming soon | 🚧 |
